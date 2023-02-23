@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
-*main - using printf
+*main - use printf
 *
-*Return:0 
+* Return: always 0
 */
 int main(void)
 {
